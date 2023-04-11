@@ -2,7 +2,7 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
-var createjs = require('createjs-module');
+var createjs = require('@thegraid/createjs-module');
 var ROSLIB = require('roslib');
 
 function _interopNamespace(e) {

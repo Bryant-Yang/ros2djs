@@ -1,4 +1,4 @@
-import * as createjs from 'createjs-module';
+import * as createjs from '@thegraid/createjs-module';
 import * as ROSLIB from 'roslib';
 
 // convert the given global Stage coordinates to ROS coordinates
